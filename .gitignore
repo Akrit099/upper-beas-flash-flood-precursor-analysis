@@ -1,0 +1,54 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+.ipython/
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Environment variables and credentials
+.env
+.env.*
+!.env.example
+credentials.json
+privatekey.json
+service-account*.json
+*.pem
+*.key
+
+# Google Earth Engine credentials
+.credentials/
+.gcloud/
+
+# Large datasets and temporary files
+*.parquet
+*.feather
+*.h5
+*.hdf5
+*.nc
+*.tif
+*.tiff
+*.kmz
+
+# Temporary files
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+
+# Streamlit
+.streamlit/secrets.toml
+
+# IDE
+.vscode/
+.idea/
+
+# OS files
+desktop.ini
