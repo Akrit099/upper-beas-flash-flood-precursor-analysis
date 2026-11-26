@@ -1,0 +1,18 @@
+event_number,day_original,month_original,year_original,river,settlement,latitude_original,longitude_original,location_accuracy,process_type,latitude,longitude,day,month,year,event_date,event_type_group,date_quality,nearest_grid_id,grid_distance_km
+113,16,7,2015,Pancha Nalla,Near Manihar/ Shilagarh,31.885391°,77.337003°,S,FF,31.885391,77.337003,16.0,7.0,2015.0,2015-07-16,Flash Flood,Exact date available,172,1.0921307888708698
+114,16,7,2015,?,Lapas ,32.026754°,77.366163°,S,FF,32.026754,77.366163,16.0,7.0,2015.0,2015-07-16,Flash Flood,Exact date available,199,2.3904010975023198
+115,16,7,2015,Chhaki nullah ,Near Naggar ,32.119601°,77.167443°,S,FF,32.119601,77.167443,16.0,7.0,2015.0,2015-07-16,Flash Flood,Exact date available,94,1.6495475926249845
+116,25,7,2017,Solang Nalla?,Between Dhundi and Solang,32.351171°,77.130580°,G,FF,32.351171,77.13058,25.0,7.0,2017.0,2017-07-25,Flash Flood,Exact date available,69,2.053207012551838
+117,2,7,2018,"Anjani Nalla 
+(Sarai Nalla)
+",Anjani Mahadev,32.310391°,77.158178°,S,FF,32.310391,77.158178,2.0,7.0,2018.0,2018-07-02,Flash Flood,Exact date available,99,3.223276649266027
+118,18,7,2018,Bran Nalla,Bran  ,32.172623°,77.179627°,S,FF,32.172623,77.179627,18.0,7.0,2018.0,2018-07-18,Flash Flood,Exact date available,95,2.349659092165097
+119,26,7,2018,"Braham Ganga Nalla
+",Bramh Ganga area near Barshani ,32.028285°,77.352347°,G,FF,32.028285,77.352347,26.0,7.0,2018.0,2018-07-26,Flash Flood,Exact date available,177,2.496460664585547
+120,26,7,2018,Chhaki nullah ,Near Naggar ,32.119601°,77.167443°,S,FF,32.119601,77.167443,26.0,7.0,2018.0,2018-07-26,Flash Flood,Exact date available,94,1.6495475926249845
+123,23,9,2018,Beas River,Kullu Valley,31.962323°,77.115693°,G,RF,31.962323,77.115693,23.0,9.0,2018.0,2018-09-23,River Flood,Exact date available,61,1.1626810889616237
+125,23,9,2018,Parbati River,?,31.898510°,77.148252°,U,FF,31.89851,77.148252,23.0,9.0,2018.0,2018-09-23,Flash Flood,Exact date available,85,0.5834067962086974
+126,7,8,2019,"Sanjoin Nalla/ Beas River confluence
+",Patlikuhal,32.120295°,77.147656°,S,FF,32.120295,77.147656,7.0,8.0,2019.0,2019-08-07,Flash Flood,Exact date available,64,2.7417778268530686
+127,16,8,2019,Beas River,"Kullu Valley, but notably: Palchan, Aloo Ground, Patlikuhal, Akhara at Kullu",31.963965°,77.115858°,S,RF,31.963965,77.115858,16.0,8.0,2019.0,2019-08-16,River Flood,Exact date available,61,0.9859133580089289
+128,11,7,2020,Kanyal Nalla ,Kanyal,32.217764°,77.191933°,S,FF,32.217764,77.191933,11.0,7.0,2020.0,2020-07-11,Flash Flood,Exact date available,96,2.6882561874725557

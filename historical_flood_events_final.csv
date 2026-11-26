@@ -1,0 +1,156 @@
+event_number,day_original,month_original,year_original,river,settlement,latitude_original,longitude_original,location_accuracy,process_type,latitude,longitude,day,month,year,event_date,event_type_group,date_quality
+1,?,?,1846,Bajaura Khad,?,31.846500°,77.160003°,S,FU,31.8465,77.160003,,,1846.0,,Uncertain Flood Type,Date unavailable
+2,?,6 to 8,1846,Khokhan Torrent ,Khokhan village (Bhuntar),31.880174°,77.150398°,S,FU,31.880174,77.150398,,,1846.0,,Uncertain Flood Type,Date unavailable
+3,?,?,1846,Parbati River,?,31.898510°,77.148252°,G,FU,31.89851,77.148252,,,1846.0,,Uncertain Flood Type,Date unavailable
+4,?,6 to 8,1846,Mohal Khad,Mohal,31.915674°,77.126046°,S,FU,31.915674,77.126046,,,1846.0,,Uncertain Flood Type,Date unavailable
+5,?,?,1846,Sarvari Nalla,Sultanpur (Kullu),31.964196°,77.107479°,S,FU,31.964196,77.107479,,,1846.0,,Uncertain Flood Type,Date unavailable
+6,31,7,1869/70,Beas River,Dobhi,32.074893°,77.131686°,G,FU,32.074893,77.131686,31.0,7.0,,,Uncertain Flood Type,Date unavailable
+7,?,7,1870,Manaslu River?,Manali,32.252719°,77.179769°,S,FU,32.252719,77.179769,,7.0,1870.0,,Uncertain Flood Type,Date unavailable
+8,?,?,1871,"Beas River and Parbati River
+",Kullu Valley,31.962323°,77.115693°,U,FU,31.962323,77.115693,,,1871.0,,Uncertain Flood Type,Date unavailable
+9,?,7,1875,Kasol Nalla and Parbati River,Kasol,32.010411°,77.315758°,S,FU,32.010411,77.315758,,7.0,1875.0,,Uncertain Flood Type,Date unavailable
+10,15,7,1875,Beas River,?,31.962323°,77.115693°,U,FU,31.962323,77.115693,15.0,7.0,1875.0,1875-07-15,Uncertain Flood Type,Exact date available
+11,30 or 31,7,1875,Beas River?,Sultanpur (Kullu),31.962323°,77.115693°,G,FU,31.962323,77.115693,,7.0,1875.0,,Uncertain Flood Type,Date unavailable
+12,?,?,Before 1883,Solang River,?,32.311159°,77.171011°,G,FU,32.311159,77.171011,,,,,Uncertain Flood Type,Date unavailable
+13,Before 22,7,1887,Mohal Khad,Mohal,31.915674°,77.126046°,S,FU,31.915674,77.126046,,7.0,1887.0,,Uncertain Flood Type,Date unavailable
+14,2,9,1887,"Zero order hillslope in Kullu
+",Akhara Bazaar ,31.963326°,77.115320°,G,FF,31.963326,77.11532,2.0,9.0,1887.0,1887-09-02,Flash Flood,Exact date available
+15,21,7,1888,Beas River,?,31.962323°,77.115693°,U,RF,31.962323,77.115693,21.0,7.0,1888.0,1888-07-21,River Flood,Exact date available
+16,After 19,9,1888,Beas River,?,31.962323°,77.115693°,U,RF,31.962323,77.115693,,9.0,1888.0,,River Flood,Date unavailable
+17,c.27,6,1889,Beas River,?,31.962323°,77.115693°,G,RF,31.962323,77.115693,,6.0,1889.0,,River Flood,Date unavailable
+18,c. 6,7,1889,"Beas River & tributaries
+",?,31.962323°,77.115693°,G,RF,31.962323,77.115693,,7.0,1889.0,,River Flood,Date unavailable
+19,c. 6,7,1889,Sarvari Nalla,Kullu,31.964196°,77.107479°,S,FU,31.964196,77.107479,,7.0,1889.0,,Uncertain Flood Type,Date unavailable
+20,21,5,1894,"Phojal Nalla & Beas River
+
+",Dawara-Dobhi,32.094957°,77.121603°,S,L,32.094957,77.121603,21.0,5.0,1894.0,1894-05-21,Landslide,Exact date available
+21,20,6,1894,"Beas River, including Phojal Nalla
+","Kullu Valley, but notably: Dawara, Dobhi, South of Raison",32.041521°,77.133187°,G,SM?,32.041521,77.133187,20.0,6.0,1894.0,1894-06-20,Uncertain Slope Movement,Exact date available
+22,1,7,1894,Phojal Nalla,Dobhi,32.094957°,77.121603°,S,FU,32.094957,77.121603,1.0,7.0,1894.0,1894-07-01,Uncertain Flood Type,Exact date available
+23,c. Before 16,7,1894,Phojal Nalla,Dobhi,32.094957°,77.121603°,G,FU,32.094957,77.121603,,7.0,1894.0,,Uncertain Flood Type,Date unavailable
+24,20,7,1894,Beas River,?,31.962323°,77.115693°,G,FF,31.962323,77.115693,20.0,7.0,1894.0,1894-07-20,Flash Flood,Exact date available
+25,26,7,1894,"Beas River (with flood flow from Parvati River)
+
+","As far south as  Bajaura (Kullu District) and Nagwain (Mandi District)
+",31.898510°,77.148252°,G,L,31.89851,77.148252,26.0,7.0,1894.0,1894-07-26,Landslide,Exact date available
+26,Before 3,8,1894,Mohal Khad,?,31.915674°,77.126046°,S,FU,31.915674,77.126046,,8.0,1894.0,,Uncertain Flood Type,Date unavailable
+27,23,8,1894,"Phojal Nalla and Beas River
+
+",Kullu,32.094957°,77.121603°,G,FU,32.094957,77.121603,23.0,8.0,1894.0,1894-08-23,Uncertain Flood Type,Exact date available
+28,8,9,1894,"Sarvari Nalla & Beas River
+",Kullu,31.964196°,77.107479°,G,RF,31.964196,77.107479,8.0,9.0,1894.0,1894-09-08,River Flood,Exact date available
+29,11,8,1895,Phojal Nalla,Dobhi,32.094957°,77.121603°,G,RF,32.094957,77.121603,11.0,8.0,1895.0,1895-08-11,River Flood,Exact date available
+30,Before 21,7,1896,Phojal Nalla,Dobhi,32.094957°,77.121603°,G,FU,32.094957,77.121603,,7.0,1896.0,,Uncertain Flood Type,Date unavailable
+31,8,7,1898,Mohal Khad,Mohal,31.915674°,77.126046°,S,FU,31.915674,77.126046,8.0,7.0,1898.0,1898-07-08,Uncertain Flood Type,Exact date available
+32,23,7,1898,Mohal Khad,Mohal,31.915674°,77.126046°,S,FU,31.915674,77.126046,23.0,7.0,1898.0,1898-07-23,Uncertain Flood Type,Exact date available
+33,23,7,1898,Beas River,?,31.962323°,77.115693°,U,FU,31.962323,77.115693,23.0,7.0,1898.0,1898-07-23,Uncertain Flood Type,Exact date available
+34,6,8,1898,Phojal Nalla,?,32.094957°,77.121603°,S,FU,32.094957,77.121603,6.0,8.0,1898.0,1898-08-06,Uncertain Flood Type,Exact date available
+35,4,8,1899,Bajaura Khad,Bajaura ,31.846500°,77.160003°,S,FF,31.8465,77.160003,4.0,8.0,1899.0,1899-08-04,Flash Flood,Exact date available
+36,c. 4,8,1899,Beas River,Dalasni,31.784951°,77.197510°,S,FF,31.784951,77.19751,,8.0,1899.0,,Flash Flood,Date unavailable
+37,5,8,1899,Mohal Khad,Mohal bridge,31.915674°,77.126046°,S,FU,31.915674,77.126046,5.0,8.0,1899.0,1899-08-05,Uncertain Flood Type,Exact date available
+38,5,8,1899,Sarvari Nalla,Near Berai ,31.962600°,77.087647°,S,FU,31.9626,77.087647,5.0,8.0,1899.0,1899-08-05,Uncertain Flood Type,Exact date available
+39,12,8,1899,Bajaura Khad,Bajaura,31.846500°,77.160003°,S,FF,31.8465,77.160003,12.0,8.0,1899.0,1899-08-12,Flash Flood,Exact date available
+40,14,8,1900,Beas River,Dobhi,32.074893°,77.131686°,G,FU,32.074893,77.131686,14.0,8.0,1900.0,1900-08-14,Uncertain Flood Type,Exact date available
+41,14,8,1900,Parbati River,?,31.898510°,77.148252°,G,FU,31.89851,77.148252,14.0,8.0,1900.0,1900-08-14,Uncertain Flood Type,Exact date available
+42,Before 20,8,1900,Bajaura Khad (?),Bajaura,31.846500°,77.160003°,S,FU,31.8465,77.160003,,8.0,1900.0,,Uncertain Flood Type,Date unavailable
+43,10,7,1901,Beas River,?,31.962323°,77.115693°,U,RF,31.962323,77.115693,10.0,7.0,1901.0,1901-07-10,River Flood,Exact date available
+44,c. 18,7,1901,Bajaura Khad,Bajaura,31.846500°,77.160003°,S,FU,31.8465,77.160003,,7.0,1901.0,,Uncertain Flood Type,Date unavailable
+45,20,8,1901,Bajaura Khad,Bajaura,31.846500°,77.160003°,S,RF,31.8465,77.160003,20.0,8.0,1901.0,1901-08-20,River Flood,Exact date available
+46,24,8,1901,Mohal Khad,Mohal bridge,31.915674°,77.126046°,S,U,31.915674,77.126046,24.0,8.0,1901.0,1901-08-24,Unclassified,Exact date available
+47,10,8,1902,Mohal Khad,Mohal bridge,31.915674°,77.126046°,S,FU,31.915674,77.126046,10.0,8.0,1902.0,1902-08-10,Uncertain Flood Type,Exact date available
+48,10,8,1902,Bajaura Khad,Bajaura,31.846500°,77.160003°,S,FU,31.8465,77.160003,10.0,8.0,1902.0,1902-08-10,Uncertain Flood Type,Exact date available
+49,16,7,1903,Beas River,Akhara bridge ,31.963965°,77.115858°,S,FU,31.963965,77.115858,16.0,7.0,1903.0,1903-07-16,Uncertain Flood Type,Exact date available
+50,12,8,1903,Bajaura Khad,Bajaura ,31.846500°,77.160003°,S,RF,31.8465,77.160003,12.0,8.0,1903.0,1903-08-12,River Flood,Exact date available
+51,2,7,1905,Parbati River,?,31.898510°,77.148252°,U,FF,31.89851,77.148252,2.0,7.0,1905.0,1905-07-02,Flash Flood,Exact date available
+52,10,8,1905,Hurla Nalla,Hurla,31.836383°,77.192251°,S,L,31.836383,77.192251,10.0,8.0,1905.0,1905-08-10,Landslide,Exact date available
+53,11,9,1905,Beas River?,?,31.962323°,77.115693°,U,FU,31.962323,77.115693,11.0,9.0,1905.0,1905-09-11,Uncertain Flood Type,Exact date available
+54,10,9,1906,"Beas River and tributaries
+
+",Raison bridge,32.059168°,77.135279°,S,RF,32.059168,77.135279,10.0,9.0,1906.0,1906-09-10,River Flood,Exact date available
+55,Before 23,8,1911,?,Kulu,31.962323°,77.115693°,U,FU,31.962323,77.115693,,8.0,1911.0,,Uncertain Flood Type,Date unavailable
+56,18,7,1938,Beas River,?,31.962323°,77.115693°,U,RF,31.962323,77.115693,18.0,7.0,1938.0,1938-07-18,River Flood,Exact date available
+57,18,7,1938,Parbati River,?,31.898510°,77.148252°,U,RF,31.89851,77.148252,18.0,7.0,1938.0,1938-07-18,River Flood,Exact date available
+58,18,7,1938,Mohal Khad,?,31.915674°,77.126046°,S,RF,31.915674,77.126046,18.0,7.0,1938.0,1938-07-18,River Flood,Exact date available
+59,28,2,1939,"Beas River and tributaries
+",?,31.962323°,77.115693°,U,RF,31.962323,77.115693,28.0,2.0,1939.0,1939-02-28,River Flood,Exact date available
+60,Before 26,8,1942,Beas River,?,31.962323°,77.115693°,U,RF,31.962323,77.115693,,8.0,1942.0,,River Flood,Date unavailable
+61,?,7,1946,?,Between Kulu and Mandi for a distance of six  miles [c. 10 km]',31.962323°,77.115693°,U,U,31.962323,77.115693,,7.0,1946.0,,Unclassified,Date unavailable
+62,?,9,1947,Beas River,"Akhara Bazar, Kulu;  Duff Dunbar bridge, Bhuntar",31.963326°,77.115320°,G,FU,31.963326,77.11532,,9.0,1947.0,,Uncertain Flood Type,Date unavailable
+63,?,9,1947,"Sarvari Nalla
+",Akhara and Sarvari Bazars,31.963326°,77.115320°,G,FU,31.963326,77.11532,,9.0,1947.0,,Uncertain Flood Type,Date unavailable
+64,Before 7,8,1952,Phojal Nalla,Dobhi,32.094957°,77.121603°,S,FU,32.094957,77.121603,,8.0,1952.0,,Uncertain Flood Type,Date unavailable
+65,Before 30,8,1952,?,"Simsa Bridge, between Katrain and Manali",32.217764°,77.191933°,G,FU,32.217764,77.191933,,8.0,1952.0,,Uncertain Flood Type,Date unavailable
+66,Before 6,10,1954,Phojal Nalla,Dobhi,32.094957°,77.121603°,G,FU,32.094957,77.121603,,10.0,1954.0,,Uncertain Flood Type,Date unavailable
+67,Before 6,10,1955,Beas River,"Ramshilla Akhara Bazar Bridge, and corridor between Akhara Bazar  and Dhalpur in  Kulu ",31.970946°,77.122043°,S,RF,31.970946,77.122043,,10.0,1955.0,,River Flood,Date unavailable
+68,Before 6,10,1955,Phojal Nalla,Dobhi,32.094957°,77.121603°,S,RF,32.094957,77.121603,,10.0,1955.0,,River Flood,Date unavailable
+69,Before 27,7,1957,"Beas River, Phojal Nalla and  Sarvari Nalla
+",Dobhi,32.094957°,77.121603°,G,FU,32.094957,77.121603,,7.0,1957.0,,Uncertain Flood Type,Date unavailable
+70,Before 30,8,1957,Phojal Nalla,Dobhi,32.094957°,77.121603°,S,FU,32.094957,77.121603,,8.0,1957.0,,Uncertain Flood Type,Date unavailable
+71,Before 8,8,1964,?,Manali-Kulu Road,31.962323°,77.115693°,U,FU,31.962323,77.115693,,8.0,1964.0,,Uncertain Flood Type,Date unavailable
+72,Before 27,9,1964,?,?,31.962323°,77.115693°,U,FU,31.962323,77.115693,,9.0,1964.0,,Uncertain Flood Type,Date unavailable
+73,Before 6,8,1977,?,Kullu District including Bhuntar Airport,31.876869°,77.151737°,S,FU,31.876869,77.151737,,8.0,1977.0,,Uncertain Flood Type,Date unavailable
+74,Before 6,8,1977,Sarvari Nalla,Kullu,31.964196°,77.107479°,S,FU,31.964196,77.107479,,8.0,1977.0,,Uncertain Flood Type,Date unavailable
+75,Before 4,8,1978,?,Katrain,32.098208°,77.135904°,G,FU,32.098208,77.135904,,8.0,1978.0,,Uncertain Flood Type,Date unavailable
+76,?,?,1988,"Beas River and tributaries
+",Between Manali and Goshal ,32.268453°,77.179929°,G,FU,32.268453,77.179929,,,1988.0,,Uncertain Flood Type,Date unavailable
+77,?,?,1992,"Beas River and tributaries
+
+",?,31.962323°,77.115693°,U,FU,31.962323,77.115693,,,1992.0,,Uncertain Flood Type,Date unavailable
+78,Before 6,8,1993,Beas River,"From the Solang Nullah to Bajaura (catchment scale impacts): Specifically- Manali,  Bhuntar Airport and Bajaura",31.962323°,77.115693°,G,FF,31.962323,77.115693,,8.0,1993.0,,Flash Flood,Date unavailable
+79,Before 6,8,1993,?,Manikaran  ,32.026385°,77.349590°,G,FU,32.026385,77.34959,,8.0,1993.0,,Uncertain Flood Type,Date unavailable
+80,11,7,1994,Shaat Nalla,Shaat,31.972036°,77.216131°,S,FF,31.972036,77.216131,11.0,7.0,1994.0,1994-07-11,Flash Flood,Exact date available
+81,9,8,1994,Jawala Mukhi Nalla,Phojal,32.094302°,77.088592°,S,FF,32.094302,77.088592,9.0,8.0,1994.0,1994-08-09,Flash Flood,Exact date available
+82,22,8,1994,Baladhi Nalla,Baladhi ,32.001838°,77.233118°,S,FF,32.001838,77.233118,22.0,8.0,1994.0,1994-08-22,Flash Flood,Exact date available
+83,22,8,1994,Kais Nalla,Kais,32.021075°,77.135692°,S,FF,32.021075,77.135692,22.0,8.0,1994.0,1994-08-22,Flash Flood,Exact date available
+84,1,7,1995,Bajaura Khad,"Shogi (Neol, Bajaura)",31.841997°,77.117588°,G,FF,31.841997,77.117588,1.0,7.0,1995.0,1995-07-01,Flash Flood,Exact date available
+85,17?,8,1995,Beas River,Vashist ,32.256421°,77.188376°,S,FF,32.256421,77.188376,,8.0,1995.0,,Flash Flood,Date unavailable
+86,4,9,1995,Beas River,Kullu Valley wide from Solang to Bajaura,31.962323°,77.115693°,G,FU,31.962323,77.115693,4.0,9.0,1995.0,1995-09-04,Uncertain Flood Type,Exact date available
+87,2,8,1997,"Beas River and tributaries
+",Patlikuhal  (but catchment scale impacts),32.117314°,77.147190°,G,FF,32.117314,77.14719,2.0,8.0,1997.0,1997-08-02,Flash Flood,Exact date available
+88,?,9,1998,?,Gojra ,32.185594°,77.199163°,S,FF,32.185594,77.199163,,9.0,1998.0,,Flash Flood,Date unavailable
+89,16,10,1998,Sarvari Nalla,Lug valley,31.964196°,77.107479°,G,FF,31.964196,77.107479,16.0,10.0,1998.0,1998-10-16,Flash Flood,Exact date available
+90,16,10,1998,Shirir Gad,Shirir,32.066340°,77.122646°,S,FF,32.06634,77.122646,16.0,10.0,1998.0,1998-10-16,Flash Flood,Exact date available
+91,16,10,1998,Mandrol Nalla,Mandrol,32.022197°,77.127349°,S,FF,32.022197,77.127349,16.0,10.0,1998.0,1998-10-16,Flash Flood,Exact date available
+92,11,8,1999,?,Gojra ,32.185594°,77.199163°,S,FF,32.185594,77.199163,11.0,8.0,1999.0,1999-08-11,Flash Flood,Exact date available
+93,21,8,2000,?,Manikaran,32.026385°,77.349590°,G,FF,32.026385,77.34959,21.0,8.0,2000.0,2000-08-21,Flash Flood,Exact date available
+94,12,6,2001,?,Bara Bhuin,31.884937°,77.153741°,G,FF,31.884937,77.153741,12.0,6.0,2001.0,2001-06-12,Flash Flood,Exact date available
+95,?,8,2001,Solang Nalla,?,32.311159°,77.171011°,G,L (Debris Flow),32.311159,77.171011,,8.0,2001.0,,Debris Flow,Date unavailable
+96,?,?,2002,?,Bahang,32.271762°,77.180890°,G,FF,32.271762,77.18089,,,2002.0,,Flash Flood,Date unavailable
+97,16,7,2003,Pulia Nalla,Shilagarh ,31.874889°,77.332798°,S,FF,31.874889,77.332798,16.0,7.0,2003.0,2003-07-16,Flash Flood,Exact date available
+98,24,7,2003,Podu-Ra Nullah ,Bahang ,32.272050°,77.183656°,S,FF,32.27205,77.183656,24.0,7.0,2003.0,2003-07-24,Flash Flood,Exact date available
+99,7,8,2003,Kangni Nalla,Kangni Nalla,32.323001°,77.149517°,S,FF,32.323001,77.149517,7.0,8.0,2003.0,2003-08-07,Flash Flood,Exact date available
+100,31 or1,7 or 8,2004,Moru Nallah ,Kothi ,32.321823°,77.191854°,S,FF,32.321823,77.191854,,,2004.0,,Flash Flood,Date unavailable
+101,8,8,2004,Jagrai Nalla,Barshani,31.995807°,77.448293°,S,FF,31.995807,77.448293,8.0,8.0,2004.0,2004-08-08,Flash Flood,Exact date available
+102,Before 8 ,7,2005,Hurla Nalla(?),Shilagarh ,31.881522°,77.335263°,G,FF,31.881522,77.335263,,7.0,2005.0,,Flash Flood,Date unavailable
+103,8?,7,2007,Beas River,Lanka Bekar,31.951130°,77.111019°,G,FF,31.95113,77.111019,,7.0,2007.0,,Flash Flood,Date unavailable
+104,8?,7,2007,Mohal Khad,?,31.915674°,77.126046°,S,FF,31.915674,77.126046,,7.0,2007.0,,Flash Flood,Date unavailable
+105,2/3,6,2009,Chhaki Nalla,"Jhungan Van, near Naggar",32.119601°,77.167443°,S,FF,32.119601,77.167443,,6.0,2009.0,,Flash Flood,Date unavailable
+106,15/16,7,2010,?,"Kootage village, Kais Panchayat",32.017747°,77.136064°,G,FF,32.017747,77.136064,,7.0,2010.0,,Flash Flood,Date unavailable
+107,23,8,2010,?,Tharman ,31.979822°,77.135871°,S,FF,31.979822,77.135871,23.0,8.0,2010.0,2010-08-23,Flash Flood,Exact date available
+108,21,7,2011,Phindri Nalla,'MSP-7 near South portal of Rohtang Tunnel' ,32.342655°,77.136728°,S,FF,32.342655,77.136728,21.0,7.0,2011.0,2011-07-21,Flash Flood,Exact date available
+109,16,8,2011,Beas River,?,32.058827°,77.134856°,G,FU,32.058827,77.134856,16.0,8.0,2011.0,2011-08-16,Uncertain Flood Type,Exact date available
+110,16,8,2011,Nullah at Rangri ,Rangri ,32.212825°,77.187293°,S,FF,32.212825,77.187293,16.0,8.0,2011.0,2011-08-16,Flash Flood,Exact date available
+111,3,8,2012,"Seri Nalla and Beas River
+
+","Upper Beas Valley, including: Dhundi, Palchan, Kulang, Shanag, Bahang",32.353175°,77.128044°,G,FF,32.353175,77.128044,3.0,8.0,2012.0,2012-08-03,Flash Flood,Exact date available
+112,?,?,2014,?,Solang,32.321175°,77.155833°,G,FF,32.321175,77.155833,,,2014.0,,Flash Flood,Date unavailable
+113,16,7,2015,Pancha Nalla,Near Manihar/ Shilagarh,31.885391°,77.337003°,S,FF,31.885391,77.337003,16.0,7.0,2015.0,2015-07-16,Flash Flood,Exact date available
+114,16,7,2015,?,Lapas ,32.026754°,77.366163°,S,FF,32.026754,77.366163,16.0,7.0,2015.0,2015-07-16,Flash Flood,Exact date available
+115,16,7,2015,Chhaki nullah ,Near Naggar ,32.119601°,77.167443°,S,FF,32.119601,77.167443,16.0,7.0,2015.0,2015-07-16,Flash Flood,Exact date available
+116,25,7,2017,Solang Nalla?,Between Dhundi and Solang,32.351171°,77.130580°,G,FF,32.351171,77.13058,25.0,7.0,2017.0,2017-07-25,Flash Flood,Exact date available
+117,2,7,2018,"Anjani Nalla 
+(Sarai Nalla)
+",Anjani Mahadev,32.310391°,77.158178°,S,FF,32.310391,77.158178,2.0,7.0,2018.0,2018-07-02,Flash Flood,Exact date available
+118,18,7,2018,Bran Nalla,Bran  ,32.172623°,77.179627°,S,FF,32.172623,77.179627,18.0,7.0,2018.0,2018-07-18,Flash Flood,Exact date available
+119,26,7,2018,"Braham Ganga Nalla
+",Bramh Ganga area near Barshani ,32.028285°,77.352347°,G,FF,32.028285,77.352347,26.0,7.0,2018.0,2018-07-26,Flash Flood,Exact date available
+120,26,7,2018,Chhaki nullah ,Near Naggar ,32.119601°,77.167443°,S,FF,32.119601,77.167443,26.0,7.0,2018.0,2018-07-26,Flash Flood,Exact date available
+121, ,8,2018,Kalegalan Nalla,Kalegalan,32.011984°,77.286544°,S,FF,32.011984,77.286544,,8.0,2018.0,,Flash Flood,Date unavailable
+122,Before 14,8,2018,?,Bajaura ,31.846500°,77.160003°,G,FF,31.8465,77.160003,,8.0,2018.0,,Flash Flood,Date unavailable
+123,23,9,2018,Beas River,Kullu Valley,31.962323°,77.115693°,G,RF,31.962323,77.115693,23.0,9.0,2018.0,2018-09-23,River Flood,Exact date available
+124,22/23,9,2018,Phojal Nalla ,Dobhi,32.094957°,77.121603°,S,FF,32.094957,77.121603,,9.0,2018.0,,Flash Flood,Date unavailable
+125,23,9,2018,Parbati River,?,31.898510°,77.148252°,U,FF,31.89851,77.148252,23.0,9.0,2018.0,2018-09-23,Flash Flood,Exact date available
+126,7,8,2019,"Sanjoin Nalla/ Beas River confluence
+",Patlikuhal,32.120295°,77.147656°,S,FF,32.120295,77.147656,7.0,8.0,2019.0,2019-08-07,Flash Flood,Exact date available
+127,16,8,2019,Beas River,"Kullu Valley, but notably: Palchan, Aloo Ground, Patlikuhal, Akhara at Kullu",31.963965°,77.115858°,S,RF,31.963965,77.115858,16.0,8.0,2019.0,2019-08-16,River Flood,Exact date available
+128,11,7,2020,Kanyal Nalla ,Kanyal,32.217764°,77.191933°,S,FF,32.217764,77.191933,11.0,7.0,2020.0,2020-07-11,Flash Flood,Exact date available
